@@ -1,0 +1,38 @@
+[
+    {
+        "listingId": 1,
+        "categoryId":2,
+        "subCategoryId":5,
+        "categoryName": "Bags, Baggage, Luggage",
+        "subCategoryName": "Briefcase",
+        "date": "07.11.2014",
+        "place": "Zurich Airport",
+        "countryCode": "CH",
+        "description": "Briefcase found at checkin counter Zurich airport",
+        "lost":true
+    },
+    {
+        "listingId": 2,
+        "categoryId":3,
+        "subCategoryId":9,
+        "categoryName": "Clothing",
+        "subCategoryName": "Blazers, Coats, Jackets, Overcoats",
+        "date": "07.10.2014",
+        "place": "City Center Garden",
+        "countryCode": "IN",
+        "description": "Jacket found in Garden",
+        "lost":true
+    },
+    {
+        "listingId": 3,
+        "categoryId":11,
+        "subCategoryId":7,
+        "categoryName": "Personal Accessories",
+        "subCategoryName": "Wallet",
+        "date": "07.9.2014",
+        "place": "Railway train",
+        "countryCode": "IN",
+        "description": "Wallet found in train from Mumbai Central to Santacruz",
+        "lost":true
+    }
+]

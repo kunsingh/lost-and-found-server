@@ -1,0 +1,239 @@
+[
+    {
+        "id":1,
+        "name":"Animals / Pets",
+        "subCategories":[
+            {"id":1,"name":"Rabbits"},
+            {"id":2,"name":"Horses, Farm Animals"},
+            {"id":3,"name":"Hamsters, Guinea Pigs, etc"},
+            {"id":4,"name":"Ferrets"},
+            {"id":5,"name":"Birds"},
+            {"id":6,"name":"Reptiles"},
+            {"id":7,"name":"Cats"},
+            {"id":8,"name":"Dogs"}
+        ]
+    },
+    {
+        "id":2,
+        "name":"Bags, Baggage, Luggage",
+        "subCategories":[
+            {"id":1,"name":"Backpack, Knapsack"},
+            {"id":2,"name":"Canvas,Duffel, Sports Bags"},
+            {"id":3,"name":"Garment Bags"},
+            {"id":4,"name":"DOP Kit, Makeup Bag"},
+            {"id":5,"name":"Briefcase"},
+            {"id":6,"name":"Suitcase"}
+        ]
+    },
+    {
+        "id":3,
+        "name":"Clothing",
+        "subCategories":[
+            {"id":1,"name":"Sweaters, Sweatshirts"},
+            {"id":2,"name":"Assorted Clothes, Laundry Bags"},
+            {"id":3,"name":"Swimwear"},
+            {"id":4,"name":"Belts, Suspenders"},
+            {"id":5,"name":"Hats"},
+            {"id":6,"name":"Pants"},
+            {"id":7,"name":"Gloves, Mittens,Scarfs"},
+            {"id":8,"name":"Socks"},
+            {"id":9,"name":"Blazers, Coats, Jackets, Overcoats"},
+            {"id":10,"name":"Cumberbuns, Ties, Vests"},
+            {"id":11,"name":"Sandals, Shoes"},
+            {"id":12,"name":"Dresses, Gowns, Skirts"},
+            {"id":13,"name":"Shirts, Blouses"}
+        ]
+    },
+    {
+        "id":4,
+        "name":"Household/Tools",
+        "subCategories":[
+            {"id":1,"name":"Bedding, Sheets, Quilts, Drapes"},
+            {"id":2,"name":"Appliances"},
+            {"id":3,"name":"Hardware, Tools"},
+            {"id":4,"name":"General Crafts"},
+            {"id":5,"name":"Garden Related"},
+            {"id":6,"name":"Furniture"},
+            {"id":7,"name":"Carriages, Highchairs, Other"},
+            {"id":8,"name":"Household Products"},
+            {"id":9,"name":"Kitchen Items"}
+        ]
+    },
+    {
+        "id":5,
+        "name":"Jewelry",
+        "subCategories":[
+            {"id":1,"name":"Bracelets"},
+            {"id":2,"name":"Rings - Awards, Sports"},
+            {"id":3,"name":"Pens"},
+            {"id":4,"name":"Brooches, Medals, Pins"},
+            {"id":5,"name":"Earrings"},
+            {"id":6,"name":"Rings - Decorative, Generic"},
+            {"id":7,"name":"Chains, Necklaces"},
+            {"id":8,"name":"Watches"},
+            {"id":9,"name":"Rings - Engagement, Wedding"},
+            {"id":10,"name":"Jewelry - Miscellaneous"},
+            {"id":11,"name":"Rings - School Rings"}
+        ]
+    },
+    {
+        "id":6,
+        "name":"Literature",
+        "subCategories":[
+            {"id":1,"name":"Bible"},
+            {"id":2,"name":"School Books, Notebooks"},
+            {"id":3,"name":"Magazines"},
+            {"id":4,"name":"Letters"},
+            {"id":5,"name":"Diaries, Memos"},
+            {"id":6,"name":"Books/Magazines/Correspondence"},
+            {"id":7,"name":"Yearbooks"}
+        ]
+    },
+    {
+        "id":7,
+        "name":"Mail/Parcel",
+        "subCategories":[
+            {"id":1,"name":"DHL"},
+            {"id":2,"name":"FedEx"},
+            {"id":3,"name":"Roadway"},
+            {"id":4,"name":"UPS"}
+        ]
+    },
+    {
+        "id":8,
+        "name":"Media",
+        "subCategories":[
+            {"id":1,"name":"Media - Video: DVDs,Tapes"},
+            {"id":2,"name":"Computer Disks, Memory Sticks/Cards, Etc"},
+            {"id":3,"name":"Video Games"},
+            {"id":4,"name":"Media - Music: Cassettes,CDs,Records"},
+            {"id":5,"name":"Film - 35mm, Digital, Negatives"}
+        ]
+    },
+    {
+        "id":9,
+        "name":"Medical",
+        "subCategories":[
+            {"id":1,"name":"Medical Devices, Accessories"},
+            {"id":2,"name":"Hearing Aids"},
+            {"id":3,"name":"Dental Related"},
+            {"id":4,"name":"Canes, Crutches, Walkers"}
+        ]
+    },
+    {
+        "id":10,
+        "name":"Musical Equipment",
+        "subCategories":[
+            {"id":1,"name":"Amps, Mixers, Electronics"},
+            {"id":2,"name":"Percussion"},
+            {"id":3,"name":"Musical"},
+            {"id":4,"name":"Bass Guitars"},
+            {"id":5,"name":"Guitars"},
+            {"id":6,"name":"Recording Equipment"},
+            {"id":7,"name":"Brass"},
+            {"id":8,"name":"Woodwinds"},
+            {"id":9,"name":"Sheet Music"},
+            {"id":10,"name":"Keyboards"},
+            {"id":11,"name":"Strings"}
+        ]
+    },
+    {
+        "id":11,
+        "name":"Personal Accessories",
+        "subCategories":[
+            {"id":1,"name":"Daytimers, Organizers - not electronic"},
+            {"id":2,"name":"Keys"},
+            {"id":3,"name":"IDs, Credit Cards, Licenses, Passports"},
+            {"id":4,"name":"Certificates, Degrees, Diplomas, Titles"},
+            {"id":5,"name":"Glasses, Sunglasses, Cases and Binoculars"},
+            {"id":6,"name":"Lighters, Pipes, Smoking Related"},
+            {"id":7,"name":"Wallet"},
+            {"id":8,"name":"Personal Accessories - Other"},
+            {"id":9,"name":"Handbags,Purses"},
+            {"id":10,"name":"Umbrellas"}
+        ]
+    },
+    {
+        "id":12,
+        "name":"Sporting Goods",
+        "subCategories":[
+            {"id":1,"name":"Guns, Trap and Skeet"},
+            {"id":2,"name":"Fishing Related"},
+            {"id":3,"name":"Watersports Related - surfboards, etc."},
+            {"id":4,"name":"Basketball Related"},
+            {"id":5,"name":"Bicycles"},
+            {"id":6,"name":"Ski Snowboard Equipment"},
+            {"id":7,"name":"Baseball Related"},
+            {"id":8,"name":"Tennis Related"},
+            {"id":9,"name":"Hockey, Field Hockey Related"},
+            {"id":10,"name":"Football Related"},
+            {"id":11,"name":"Soccer Related"},
+            {"id":12,"name":"Bowling Related"},
+            {"id":13,"name":"Golf Related"},
+            {"id":14,"name":"Sports - Miscellaneous Other"},
+            {"id":15,"name":"Archery Related"}
+        ]
+    },
+    {
+        "id":13,
+        "name":"Tickets",
+        "subCategories":[
+            {"id":1,"name":"Bus"},
+            {"id":2,"name":"Wrestling"},
+            {"id":3,"name":"Cricket"},
+            {"id":4,"name":"Airline"},
+            {"id":5,"name":"Musical"},
+            {"id":6,"name":"Soccer"},
+            {"id":7,"name":"Ferry / Ship"},
+            {"id":8,"name":"Auto Racing"},
+            {"id":9,"name":"Theater"},
+            {"id":10,"name":"Football"},
+            {"id":11,"name":"Cinema / Movie"},
+            {"id":12,"name":"Theme Park"},
+            {"id":13,"name":"Hockey"},
+            {"id":14,"name":"Train"},
+            {"id":15,"name":"Basketball"},
+            {"id":16,"name":"Polo"},
+            {"id":17,"name":"Concert"},
+            {"id":18,"name":"Baseball"},
+            {"id":19,"name":"Golf"},
+            {"id":20,"name":"Other"}
+        ]
+    },
+    {
+        "id":14,
+        "name":"Toys",
+        "subCategories":[
+            {"id":1,"name":"Vehicles"},
+            {"id":2,"name":"Dolls / Stuffed Animals"},
+            {"id":3,"name":"Toys - Miscellaneous"},
+            {"id":4,"name":"Beach / Water Toys"},
+            {"id":5,"name":"Radio Controlled"},
+            {"id":6,"name":"Board Games"},
+            {"id":7,"name":"Action Figures"},
+            {"id":8,"name":"Rockets / Kites"}
+        ]
+    },
+    {
+        "id":15,
+        "name":"Transportation",
+        "subCategories":[
+            {"id":1,"name":"Airplane Related"},
+            {"id":2,"name":"Trailers"},
+            {"id":3,"name":"Motorcycles, Scooters, Snowmobiles"},
+            {"id":4,"name":"Boating Related"},
+            {"id":5,"name":"Automobile"}
+        ]
+    },
+    {
+        "id":16,
+        "name":"Visual Art Related",
+        "subCategories":[
+            {"id":1,"name":"Architectural, Engineering, Design Print"},
+            {"id":2,"name":"Paintings"},
+            {"id":3,"name":"Sculptures / Statues"},
+            {"id":4,"name":"Photographs, Photo Albums"},
+            {"id":5,"name":"Drawings, Antique Prints"}
+        ]
+    }
+]
